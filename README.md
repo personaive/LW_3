@@ -79,7 +79,7 @@
 
 13\. Завершить программу, возвращая 0.
 
-Тестирование
+### Тестирование
 <img width="593" height="222" alt="Image" src="https://github.com/user-attachments/assets/709dec55-b2f7-4536-a206-455bb73bbba6" />
 <img width="596" height="261" alt="Image" src="https://github.com/user-attachments/assets/cfb9924c-f26f-40d8-b399-074ff722551e" />
 
