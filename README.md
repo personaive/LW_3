@@ -12,7 +12,7 @@
 
 ### Алгоритм решения
 
-1. Подключить пространство имён System для работы с консолью.
+1\. Подключить пространство имён System для работы с консолью.
 
 2\. Определить функцию truncateNumber, которая принимает вещественное число и возвращает целое, отбрасывая дробную часть.
 
@@ -37,8 +37,8 @@
 12\. Завершить работу программы, возвращая 0.
 
 ### Тестирование
-
-
+<img width="925" height="294" alt="Image" src="https://github.com/user-attachments/assets/d72f5003-c8b5-45f6-a1cf-ad71c098da4c" />
+<img width="883" height="364" alt="Image" src="https://github.com/user-attachments/assets/f1fdda32-ad86-4f0a-98ed-cefddb92d8e9" />
 
 
 # Задание 2
@@ -53,7 +53,7 @@
 
 ### Алгоритм решения
 
-1. Подключить пространство имён System для работы с консолью.
+1\. Подключить пространство имён System для работы с консолью.
 
 2\. Определить функцию readLinesSequence, которая принимает количество строк count и возвращает последовательность seq<string>.
 
@@ -80,10 +80,11 @@
 13\. Завершить программу, возвращая 0.
 
 Тестирование
+<img width="593" height="222" alt="Image" src="https://github.com/user-attachments/assets/709dec55-b2f7-4536-a206-455bb73bbba6" />
+<img width="596" height="261" alt="Image" src="https://github.com/user-attachments/assets/cfb9924c-f26f-40d8-b399-074ff722551e" />
 
 
-Задание 3
----
+# Задание 3
 
 ## Задача 11
 
@@ -93,7 +94,7 @@
 
 ### Алгоритм решения
 
-1. Подключить пространство имён System для работы с консолью.
+1\. Подключить пространство имён System для работы с консолью.
 
 2\. Подключить пространство имён System.IO для работы с файлами и каталогами.
 
@@ -122,6 +123,5 @@
 14\. Завершить работу программы, возвращая 0.
 
 ### Тестирование
-
-
-
+<img width="583" height="182" alt="Image" src="https://github.com/user-attachments/assets/b4cd040b-30c3-412c-8987-dca73c42eba2" />
+<img width="663" height="203" alt="Image" src="https://github.com/user-attachments/assets/8918e9ac-31da-44f5-a900-19188f2b86bd" />
