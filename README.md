@@ -47,8 +47,8 @@
 17\. Завершить работу программы, возвращая 0.
 
 ### Тестирование
-<img width="925" height="294" alt="Image" src="https://github.com/user-attachments/assets/d72f5003-c8b5-45f6-a1cf-ad71c098da4c" />
-<img width="883" height="364" alt="Image" src="https://github.com/user-attachments/assets/f1fdda32-ad86-4f0a-98ed-cefddb92d8e9" />
+<img width="970" height="399" alt="Image" src="https://github.com/user-attachments/assets/497f146a-579b-4159-ad2a-9d06eb43124a" />
+<img width="816" height="530" alt="Image" src="https://github.com/user-attachments/assets/d6740dd5-408e-4400-9a81-dd0eea0be76a" />
 
 
 # Задание 2
